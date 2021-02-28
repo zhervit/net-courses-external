@@ -65,12 +65,12 @@ int N = 100;
 
 for (int i = 0; i < N; i++)
 {
-    str += "\*";
+    str += "*";
 }
 
 for (int i = 0; i < N; i++)
 {
-    sb.Append("\*");
+    sb.Append("*");
 }
 ```
 <strong>NOTE:</strong> для измерения скорости работы алгоритмов использовать класс [Stopwatch](https://docs.microsoft.com/ru-ru/dotnet/api/system.diagnostics.stopwatch?view=netcore-3.1).
