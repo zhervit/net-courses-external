@@ -23,7 +23,7 @@
 
 <strong>NOTE:</strong> В качестве примера можно посмотреть [реализацию](https://referencesource.microsoft.com/#mscorlib/system/collections/generic/list.cs,cf7f4095e4de7646) класса List&lt;T&gt;.
 
-<strong>NOTE:</strong> Для работы с внутренним массивом рекомендуется использовать методы статического класса [Array](https://docs.microsoft.com/ru-ru/dotnet/apisystem.array?view=netframework-4.8).
+<strong>NOTE:</strong> Для работы с внутренним массивом рекомендуется использовать методы статического класса [Array](https://docs.microsoft.com/ru-ru/dotnet/api/system.array?view=net-5.0#methods).
 
 Класс должен содержать:
 
