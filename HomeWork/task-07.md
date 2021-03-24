@@ -16,8 +16,6 @@
 
 На базе обычного массива (коллекции .NET типа List&lt;T&gt;, ArrayList и подобные им не использовать) реализовать свой собственный класс DynamicArray, представляющий собой динамический массив. Элементами созданной коллекции могут быть только объекты, [имеющие конструктор без параметров.](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
 
-<strong>NOTE:</strong> В качестве примера можно посмотреть [реализацию](https://referencesource.microsoft.com/#mscorlib/system/collections/generic/list.cs,cf7f4095e4de7646) класса List&lt;T&gt;.
-
 <strong>NOTE:</strong> Для работы с внутренним массивом рекомендуется использовать методы статического класса [Array](https://docs.microsoft.com/ru-ru/dotnet/api/system.array?view=net-5.0#methods).
 
 Класс должен содержать:
